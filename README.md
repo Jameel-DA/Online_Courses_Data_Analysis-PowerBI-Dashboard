@@ -3,9 +3,10 @@
 ## Overview
 This project provides a comprehensive analysis of online course trends, including course popularity, in-demand skills, language distribution, and viewership metrics. The analysis is based on data covering various categories such as Computer Science, Data Science, Business and more. Key metrics are quantified to highlight significant trends and insights.
 
-<!-- Optional: Add a screenshot of your dashboard -->
+## Dashboard
+![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
 
-## 🔍 Dashboard Highlights
+## Dashboard Highlights
  Most Popular Course Categories like Computer Science, Data Science, and IT.
 
  Course Language Breakdown, dominated by English courses.
