@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of online course trends, including course popularity, in-demand skills, language distribution, and viewership metrics. The analysis is based on data covering various categories such as Computer Science, Data Science, Business and more. Key metrics are quantified to highlight significant trends and insights.
 
 ## Dashboard
-![Screenshot (495)]([https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e](https://github.com/Jameel-DA/Online_Courses_Data_Analysis-PowerBI-Dashboard/blob/main/Edtec%20Analysis.pdf))
+![Screenshot (495)]([[https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e](https://github.com/Jameel-DA/Online_Courses_Data_Analysis-PowerBI-Dashboard/blob/main/Edtec%20Analysis.pdf)](https://github.com/Jameel-DA/Online_Courses_Data_Analysis-PowerBI-Dashboard/blob/main/Edtec%20Analysis.pdf))
 
 ## Dashboard Highlights
  Most Popular Course Categories like Computer Science, Data Science, and IT.
