@@ -41,6 +41,6 @@ Online_Courses.csv: Raw dataset used for analysis.
 Edtec Analysis.pdf: PDF report summarizing key insights from the dashboard.
 
 ## Links
-- **PowerBI Workspace**: [Insert PowerBI Workspace Link Here]  
+- **PowerBI Workspace**: [https://app.powerbi.com/links/vr58eW8jKa?ctid=b5dd3190-10d9-430a-abef-3895acdc5bef&pbi_source=linkShare]  
 - **LinkedIn Post**: [Insert LinkedIn Post Link Here]  
 
